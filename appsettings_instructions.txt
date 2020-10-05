@@ -1,0 +1,16 @@
+﻿For program to run, there must be an appsettings.json file. 
+Use the following code to store database connection information.
+
+appsettings.json
+
+{
+  "Data": {
+    "Northwind": {
+      "ConnectionString": "Server=bitsql.wctc.edu;Database=databasename_##_XXX;User ID=YYY;Password=ZZZ"
+    }
+  },
+  "_comment": {
+    "##": "last 2 digits of CRN",
+    "XXX": "your initials"
+  }
+}
