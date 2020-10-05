@@ -59,7 +59,7 @@ using Northwind.Models;
             WriteLiteral("        ");
             EndContext();
             BeginContext(207, 161, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "232088ff76af4a8b980e94e06c85eb25", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d6e532b7d57142a9bef7d80b77305eab", async() => {
                 BeginContext(306, 14, false);
 #line 8 "C:\Users\Peter Kovacik\Documents\Northwind assignments\Northwind4\Northwind\Views\Product\Category.cshtml"
                                                                                                      Write(c.CategoryName);

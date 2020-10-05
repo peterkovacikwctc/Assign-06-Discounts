@@ -54,7 +54,7 @@ namespace Northwind.Views.Home.Shared
             WriteLiteral("<!DOCTYPE html>\r\n\r\n<html lang=\"en\">\r\n");
             EndContext();
             BeginContext(37, 795, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8225d737af11472d8aa9de009918219c", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c8cf994835ab4b249f6a145fb8fd7ad4", async() => {
                 BeginContext(43, 102, true);
                 WriteLiteral("\r\n    <meta charset=\"utf-8\" />\r\n    <meta name=\"viewport\" content=\"width=device-width\" />\r\n    <title>");
                 EndContext();
@@ -93,12 +93,12 @@ namespace Northwind.Views.Home.Shared
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(834, 2751, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8114016fe76a4d89ac03ce1be39b9088", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1d30d0c97da44a9ebd1c0db45b527dc1", async() => {
                 BeginContext(840, 97, true);
                 WriteLiteral("\r\n    <!-- navbar -->\r\n    <nav class=\"navbar navbar-expand-lg navbar-dark bg-primary\">\r\n        ");
                 EndContext();
                 BeginContext(937, 109, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1635dc8bba0547b495cb2789c34c1b5d", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0aef2d49b44c4622821d7615000a6616", async() => {
                     BeginContext(1002, 40, true);
                     WriteLiteral("<i class=\"far fa-compass\"></i> Northwind");
                     EndContext();
@@ -134,7 +134,7 @@ namespace Northwind.Views.Home.Shared
                         ");
                 EndContext();
                 BeginContext(1864, 124, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "22ad416706154828ada306253519de07", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7387badf82f1415296cad3ffc6f0cd66", async() => {
                     BeginContext(1936, 48, true);
                     WriteLiteral("<i class=\"fas fa-list-ul\"></i> Browse Categories");
                     EndContext();
@@ -169,7 +169,7 @@ namespace Northwind.Views.Home.Shared
             ");
                 EndContext();
                 BeginContext(2505, 291, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "34ed46629e4d4fa68dc0614f1b795fe1", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2af4cdac926d42d8b914e245d4d3d040", async() => {
                     BeginContext(2544, 245, true);
                     WriteLiteral("\r\n                <input class=\"form-control mr-sm-2\" type=\"search\" placeholder=\"Product Search\" aria-label=\"Search\">\r\n                <button class=\"btn btn-danger my-2 my-sm-0\" type=\"submit\"><i class=\"fas fa-search\"></i></button>\r\n            ");
                     EndContext();
